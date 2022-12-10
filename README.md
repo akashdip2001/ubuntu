@@ -42,13 +42,14 @@ sudo dpkg -i *.deb                ( install any Download .deb file with Terminal
 [**How to install all type of softwers in KALI linux**](https://youtu.be/gkc-i7S4QKI)      
 
 ---
-<h3>Video not Play</h3>
+# Video not Play
 
 ```
 sudo apt install ubuntu-restricted-extras
 ```
 [**video guide**](https://youtu.be/gkc-i7S4QKI?t=247)
 ---
+
 ![installing_ubuntu_restricted_extras](https://user-images.githubusercontent.com/81384987/206844031-65d6e81b-aa8d-4366-82ea-02d9f91647fd.jpg)
 ![installing_ubuntu_restricted_extras_1](https://user-images.githubusercontent.com/81384987/206844034-338e29e9-b845-4162-8197-a7de7af758de.jpg)
 
