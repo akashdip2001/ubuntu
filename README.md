@@ -1,6 +1,6 @@
 <img align="right" alt="Mechanical Engineering" width="400" src="https://user-images.githubusercontent.com/81384987/206847394-741ff5c8-d2a9-4867-a983-995277d32653.png">
 
-<br>
+---
 
 # Ubuntu
 
