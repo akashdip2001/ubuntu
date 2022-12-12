@@ -96,9 +96,12 @@ audacious (mp3)
 rm [file location]   (for Empty file)
 rm -r [...]          (for a directory)
 ```
+---
+
 | <a href="https://akashdip2001.github.io/kali-all-commands/#my-website-https-akashdip2001-github-io-linktree/" class="previous">&laquo; kali linux all commands</a> <br/> |
 |-----------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://akashdip2001.github.io/fedora-all-imp-commands/" class="next">fedora linux all commands &raquo;</a> |
+
 
 ✔️ [**my Website**](https://akashdip2001.github.io/linktree/)
 <h1 align="right">AKASHDIP MAHAPATRA</h1>
