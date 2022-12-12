@@ -74,21 +74,21 @@ sudo apt install gnome-tweak-tool  or  sudo apt install gnome-tweaks
 | telegram | messaging app | sudo snap install telegram-desktop |
 | viber | messaging app | Downlod [`link`](https://www.viber.com/en/download/) |
 | google message | messaging app |
-kdeconnect | file transfer | sudo apt install [name]
-freecad | Engineering Drawing
-shotcut | Video Editor
-gimp | photo Editor
-simplescreenrecorder | screen recorder
-audacity | audio Editor
-handbrake | video compressor
-codeblocks | coding
-blender | graphic design
-freeDownloadManager
-ktouch | Typing Pracktice
-virtualbox
-terminator
-edge
-audacious (mp3)
+| kdeconnect | file transfer | sudo apt install [name]
+| freecad | Engineering Drawing |
+| shotcut | Video Editor |
+| gimp | photo Editor |
+| simplescreenrecorder | screen recorder |
+| audacity | audio Editor |
+| handbrake | video compressor |
+| codeblocks | coding |
+| blender | graphic design |
+| freeDownloadManager |
+| ktouch | Typing Pracktice |
+| virtualbox |
+| terminator |
+| edge | 
+| audacious | mp3 player |
 
 
 # Delet File --  
