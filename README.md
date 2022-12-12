@@ -1,11 +1,18 @@
-<img align="right" alt="Mechanical Engineering" width="400" src="https://user-images.githubusercontent.com/81384987/206847394-741ff5c8-d2a9-4867-a983-995277d32653.png"> 
+<img align="right" alt="Mechanical Engineering" width="400" src="https://user-images.githubusercontent.com/81384987/206847394-741ff5c8-d2a9-4867-a983-995277d32653.png">
 
-# Ubuntu-all-commands
+<br>
+
+# Ubuntu
+
+<br>
 
 [![YouTube](https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
 <br>
 - 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
-
+<br>
+<br>
+<a href="https://www.youtube.com/c/akash aot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash aot" height="30" width="40" />My YouTube Channel</a>
+<br>
 
 <h6 align="right">all imp. commands of KALI LINUX. This repositry helps to install, Uninstall, WIFI peoblams, all usefull apps </h6>
 <br>
@@ -69,13 +76,13 @@ sudo apt install gnome-tweak-tool  or  sudo apt install gnome-tweaks
 # All imp. Softwers in KALI
 
 | Name      |   Work         |  Code        |
-|-----------|:--------------:|:------------:|
-| wats app | messaging app | sudo snap install whatsapp-for-linux |
+|-----------|--------------|:------------:|
+| wats app | messaging app | first_install_snap_than_use_snap_command ```sudo snap install whatsapp-for-linux``` |
 | telegram | messaging app | sudo snap install telegram-desktop |
 | viber | messaging app | Downlod [`link`](https://www.viber.com/en/download/) |
 | google message | messaging app |
 | kdeconnect | file transfer | sudo apt install [name]
-| freecad | Engineering Drawing |
+| freecad | Engineering_Drawing |
 | shotcut | Video Editor |
 | gimp | photo Editor |
 | simplescreenrecorder | screen recorder |
