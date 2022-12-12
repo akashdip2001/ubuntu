@@ -12,7 +12,7 @@
 <br>
 
 ---
-# any previous installation not successfully completed
+# Any previous installation not successfully completed
 ```
 apt --fix-broken install
 ```
@@ -30,7 +30,7 @@ sudo systemctl status systemd-resolved.service
 service bluetooth restart
 ```
 ---
-# install Softwers in KALI Linux ---
+# Install Softwers in KALI Linux ---
 ```
 sudo apt install [name]           ( Download any softwer from Terminal )
 sudo snap install [name]          ( Downlod any softwer from Snap Store )
@@ -55,7 +55,7 @@ sudo apt install ubuntu-restricted-extras
 
 ---
 
-# install Gnome Extenstion + Tweak  --- 
+# Install Gnome Extenstion + Tweak  --- 
 ```
 sudo apt install gnome-shell-extenstion
 ```
